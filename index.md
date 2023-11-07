@@ -1,4 +1,4 @@
 ---
-title: my test pages
+title: Blog
 ---
 
