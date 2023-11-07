@@ -1,3 +1,8 @@
+---
+title: "markdown-cheats"
+date: 2023-11-07
+---
+
 Sample Markdown Cheat Sheet
 =========================== 
 
